@@ -17,7 +17,7 @@ When brainstorming project ideas, I became curious about the potential negative 
 
 This project is driven by a desire to better understand my habits and their effects, with the ultimate goal of fostering a healthier balance between digital consumption and overall lifestyle.
 ## Dataset  
-This project relies on two datasets: **YouTube watch history** and **sleep patterns**.  
+This project relies on two datasets: **YouTube watch history** and **my sleep patterns**.  
 
 ### 1. YouTube Watch History  
 - **Source**: Extracted from Google Takeout in JSON format.  
