@@ -1,7 +1,6 @@
 # DSA210-Project
 ## My Presentation
 Link for my presentation: https://drive.google.com/file/d/1ETAwGqtd8FIn_6mbtVwI3xzqPzlOGU2I/view?usp=sharing
-You can find my code here: DSA210.ipynb
 ## Project Overview
 This project explores my daily YouTube usage patterns to uncover insights into how the platform influences my lifestyle and well-being. By tracking when and why I watch YouTube (e.g., during meals or late at night), I aim to identify habits and youtube's impact on key aspects of my life.
 
